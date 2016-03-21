@@ -32,7 +32,6 @@ Imports:
   stringr,
   tidyr
 Remotes:
-  gaborcsardi/rcorpora,
   garrettgman/DSR,
   hadley/stringr,
   hadley/ggplot2,
