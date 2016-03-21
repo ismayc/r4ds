@@ -31,8 +31,3 @@ Imports:
   rcorpora,
   stringr,
   tidyr
-Remotes:
-  garrettgman/DSR,
-  hadley/stringr,
-  hadley/ggplot2,
-  hadley/nycflights13
