@@ -36,5 +36,4 @@ Remotes:
   garrettgman/DSR,
   hadley/stringr,
   hadley/ggplot2,
-  hadley/nycflights13,
-  rstudio/bookdown
+  hadley/nycflights13
